@@ -1,4 +1,3 @@
 # Matekgame
-Egy egyszerű matek game.
-
-töltöttem rajta kb 15-20 percet és ennyi, a nagy része csak dolgok keresése volt
+remélem terdik büszke vagy rám :)
+maga a program helyett inkább élvezzétek a cicákat
